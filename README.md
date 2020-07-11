@@ -16,6 +16,6 @@ I'm Shubham, most of my friends and colleague know me by rDx. I'm Software Engin
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=rdxshubham.visitor-badge">
  <p/>
 
