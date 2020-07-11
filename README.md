@@ -8,5 +8,14 @@ I'm Shubham, most of my friends and colleague know me by rDx. I'm Software Engin
 - 💬 Ask me about gadgets, how to hit a smash? :tennis:, automate stuffs, python, .Net, Azure.
 - 📫 How to reach me: 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+<p align='center'>
+<a href="https://dev.to/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rdxshubhams"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rdxshubham/"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/linkedin.png?raw=true"></a>
+</p>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  <p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+ <p/>
 
