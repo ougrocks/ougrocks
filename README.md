@@ -1,9 +1,9 @@
-# [![waylon walker header](https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/github-shubham-banner-dark.png)](https://waylonwalker.com)
+# [![shubham gupta header](https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/github-shubham-banner-dark.png)]
 <p align='center'>
-<a href="https://dev.to/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rdxshubhams"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rdxshubham/"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/linkedin.png"></a>
 <a href="https://instagram.com/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rdxshubham/"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/rdxshubhams"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### Hello World! 👋
