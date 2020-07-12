@@ -1,4 +1,4 @@
-# [![shubham gupta header](https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/github-shubham-banner-dark.png)]
+# ![shubham gupta header](https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/github-shubham-banner-dark.png)
 <p align='center'>
 <a href="https://www.linkedin.com/in/rdxshubham/"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/linkedin.png"></a>
 <a href="https://instagram.com/rdxshubham"><img height="30" src="https://raw.githubusercontent.com/ougrocks/ougrocks/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
